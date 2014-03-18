@@ -1,10 +1,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-run:
+Run:
 Demo.m from Matlab
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-key function:
+Key Function:
 pso.h, pso.cpp
 Advantages: fast (It is very important in real-time robot control)
 The functions aim at realizing particle swarm optimization (PSO) algorithm.
