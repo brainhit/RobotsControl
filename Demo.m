@@ -4,7 +4,8 @@
 
 function Demo
 %% add path
-addpath(genpath('..\RobotsControl'));
+addpath('pso');
+addpath('robot');
 
 %% clear all
 warning off; close all;
